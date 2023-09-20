@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hyebin%20Park&fontSize=60)
+
+## 
+## Who am i ?
+## Education
+## Study
+## Contact
+
+<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
+
 
 <!--
 **miloupark/miloupark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
